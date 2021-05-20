@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441577924308",
+    "project_id": "connecttofirebase-6f252",
+    "storage_bucket": "connecttofirebase-6f252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441577924308:android:7c2b51cc0276aada7a7d41",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.connecttofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441577924308-gcqb0rcqu3ntt1v8h8rsum8b634tbls2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxcNReP_7S0WGEQnz4weECCYlGDZ8WN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441577924308-gcqb0rcqu3ntt1v8h8rsum8b634tbls2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
